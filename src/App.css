@@ -7,10 +7,9 @@
 * {
   box-sizing: border-box;
 }
-/* This is a single-line comment */
 body {
   background: linear-gradient(to right,#fdfdfd,rgb(88, 40, 68));
-  /* display: flex; */
+  display: flex; 
   flex-direction: column;
   align-items: center;
   justify-content: center;
